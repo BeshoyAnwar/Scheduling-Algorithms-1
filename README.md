@@ -2,7 +2,7 @@
 ## Description
 ### Why do we need scheduling?
 A typical process involves both I/O time and CPU time. In a uniprogramming system like MS-DOS, time spent waiting for I/O is wasted and CPU is free during this time. In multiprogramming systems, one process can use CPU while another is waiting for I/O. This is possible only with process scheduling. 
-Different Scheduling Algorithms
+### Different Scheduling Algorithms
 #### First Come First Serve (FCFS)
 Simplest scheduling algorithm that schedules according to arrival times of processes.
 #### Shortest Job First(SJF)
@@ -23,4 +23,4 @@ similar to priority(NP) but if a process arrived with higher priority than the p
 
 -you will find an app with .dxe extension change it to .exe then open it
 
--you will find find folder for screenshots showing the testing process,source code folder & the user guide may help you 
+-you will find folder for screenshots showing the testing process,source code folder & the user guide may help you 
